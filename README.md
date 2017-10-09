@@ -2,6 +2,7 @@ hoborg
 ======
 
 [![Join the chat at https://gitter.im/JJ/hoborg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JJ/hoborg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhoborg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhoborg?ref=badge_shield)
 
 An ur-[dieselpunk](https://es.wikipedia.org/wiki/Dieselpunk) novel with a Spanish-created robot hobo in a balkanized
 United States of America at the beginning of the XXth century. 
@@ -93,3 +94,7 @@ Get in touch
 If it is some issue related to the novel, [use the GitHub
 issues](https://github.com/JJ/hoborg/issues), any other business, just
 [email me](mailto:hoborg@merelo.net).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhoborg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhoborg?ref=badge_large)
